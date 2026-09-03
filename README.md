@@ -1,6 +1,6 @@
 # Program Teorema Pythagoras
 
-**Nama:** Khunaepi 
+**Nama:** Khunaepi  
 **NIM:** 2225250053  
 **Mata Kuliah:** Algoritma dan Pemrograman
 
