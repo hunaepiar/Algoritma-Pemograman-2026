@@ -37,6 +37,6 @@ Panjang sisi miring segitiga siku-siku.
 
 ### Pertemuan-01
 Berisi tugas Teorema Pythagoras, yaitu:
-- `pythagoras.py` — program Python untuk menghitung sisi miring.
-- `Tugas_Pertemuan_1_Pythagoras.docx` — laporan tugas.
-- Gambar flowchart — alur program Teorema Pythagoras.
+- [`pythagoras.py`](Pertemuan-01/pythagoras.py) — program Python untuk menghitung sisi miring
+- [`Tugas_Pythagoras.docx`](Pertemuan-01/Tugas_Pythagoras.docx) — laporan tugas
+- [`gambar_flowchart_pythagoras.jpg.jpeg`](Pertemuan-01/gambar_flowchart_pythagoras.jpg.jpeg) — flowchart program
